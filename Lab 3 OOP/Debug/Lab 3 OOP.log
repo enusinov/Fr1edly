@@ -1,0 +1,36 @@
+﻿  base.cpp
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(101,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(111,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(112,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(141,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(171,13): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(172,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(173,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(196,13): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(197,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab 3 OOP.cpp
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(40,18): error C3646: GetType: неизвестный спецификатор переопределения
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(40,26): error C2059: синтаксическая ошибка: )
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(40,37): error C2238: непредвиденные лексемы перед ";"
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(54,17): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(54,17): error C2433: Base::ostream: "friend" не разрешается для объявлений данных
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(54,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(54,62): error C2238: непредвиденные лексемы перед ";"
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(61,18): error C3646: GetType: неизвестный спецификатор переопределения
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(61,26): error C2059: синтаксическая ошибка: )
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(61,33): error C2238: непредвиденные лексемы перед ";"
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(77,17): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(77,17): error C2433: Base::ostream: "friend" не разрешается для объявлений данных
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(77,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(77,58): error C2238: непредвиденные лексемы перед ";"
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(85,18): error C3646: GetType: неизвестный спецификатор переопределения
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(85,26): error C2059: синтаксическая ошибка: )
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(85,33): error C2238: непредвиденные лексемы перед ";"
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\Lab 3 OOP.cpp(25,12): error C2039: "GetType": не является членом "Base::vector".
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(65): message : см. объявление "Base::vector"
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\Lab 3 OOP.cpp(27,12): error C2039: "GetType": не является членом "Base::vector".
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.h(65): message : см. объявление "Base::vector"
+  Создание кода...
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(64): warning C4715: Base::vector::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(68): warning C4715: Base::vector::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\kovey\Desktop\Lab 3 OOP\Lab 3 OOP\base.cpp(117): warning C4715: Base::base::operator+=: значение возвращается не при всех путях выполнения
